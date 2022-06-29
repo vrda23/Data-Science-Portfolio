@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## Project 1: Predicting seasonal flu and h1n1 vaccination rates
+## Project 1: Predicting seasonal flu and h1n1-flu vaccination rates
 - Exploratory data analysis (visualizations, correlations (Cramer's V))
 - Dealing with missing data, data cleaning
 - Applying classification algorithms using sklearn
