@@ -1,11 +1,11 @@
 # Data Science Portfolio
 
 ## [Project 1: Predicting seasonal flu and h1n1-flu vaccination rates](https://github.com/vrda23/Vaccination-ML)
-- Exploratory data analysis (visualizations, correlations (Cramer's V))
-- Dealing with missing data, data cleaning
-- Applying classification algorithms using sklearn
-- Connecting the whole procedure within sklearn's pipeline
-- Creating meta models (Ensamble) to improve the roc_auc_score
+- exploratory data analysis (visualizations, correlations (Cramer's V))
+- dealing with missing data, data cleaning
+- applying classification algorithms using sklearn
+- connecting the whole procedure within sklearn's pipeline
+- creating meta models (Ensamble) to improve the roc_auc_score
 
 
 ## [Project 2: Breast-Cancer-classification](https://github.com/vrda23/Breast-Cancer-classification)
