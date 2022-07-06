@@ -7,6 +7,7 @@
 - connecting the whole procedure within sklearn's pipeline
 - creating meta models (Ensamble) to improve the roc_auc_score
 ![](https://github.com/vrda23/Data-Science-Portfolio/blob/main/Images/correlation%20heatmap.png)
+![](https://github.com/vrda23/Data-Science-Portfolio/blob/main/Images/roc_auc_h1n1.png)
 
 ## [Project 2: Breast-Cancer-classification](https://github.com/vrda23/Breast-Cancer-classification)
 
